@@ -1,0 +1,4 @@
+node_modules/
+site/www.paputmenorca.com/dist/
+*.log
+.gemini/

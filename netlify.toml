@@ -1,0 +1,4 @@
+[build]
+  base = "site/www.paputmenorca.com"
+  command = "bash build.sh"
+  publish = "dist"
