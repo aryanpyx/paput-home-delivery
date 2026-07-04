@@ -1,4 +1,4 @@
-# Paput Menorca - Home Delivery (English Version)
+# Paput Menorca - Home Delivery
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bbdf8083-d9d1-4475-b82b-8a8f15cc3b83/deploy-status)](https://paput-home-delievery.netlify.app)
 
